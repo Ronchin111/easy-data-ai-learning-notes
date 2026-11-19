@@ -6,6 +6,7 @@
 
 - [第1篇 · Task 1：课前导读和基础概念（F0、F1、F2）](notes/task01-foundations.md)
 - [第2篇 · Task 2：场景识别与大模型 API（P1、D1、I1）](notes/task02-scenarios-api-data.md)
+- [第3篇 · Task 3：Agentic RAG 产品设计与向量数据库（P2、I2）](notes/task03-agentic-rag-vector-db.md)
 
 ## 课程来源
 
